@@ -4,6 +4,7 @@
 
 1. Red Hat, Inc. (Uses OVN-Kubernetes as their default CNI in OpenShift product)
 2. NVIDIA (Uses OVN-Kubernetes in their production environments)
+3. Nutanix (Uses OVN-Kubernetes as part of its Flow CNI)
 
 ## Projects
 
